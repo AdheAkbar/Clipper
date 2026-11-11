@@ -1,0 +1,6 @@
+{
+  "name": "Auto Clipper",
+  "description": "Automatically analyzes videos and creates highlights using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

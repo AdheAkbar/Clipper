@@ -1,0 +1,13 @@
+{
+  "whisper_model": "base",
+  "default_clip_count": 5,
+  "min_duration": 10,
+  "max_duration": 60,
+  "weight_audio": 0.30,
+  "weight_visual": 0.30,
+  "weight_ai": 0.40,
+  "fade_enabled": true,
+  "reencode": false,
+  "output_folder": "./output",
+  "merge_clips": false
+}
